@@ -18,6 +18,7 @@
   <objects name="objects">
     <object>objects\object1</object>
     <object>objects\obj_1</object>
+    <object>objects\zdf</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
