@@ -15,7 +15,9 @@
   <fonts name="fonts">
     <font>fonts\font0</font>
   </fonts>
-  <objects name="objects"/>
+  <objects name="objects">
+    <object>objects\object1</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
   </rooms>
